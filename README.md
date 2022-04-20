@@ -1,4 +1,4 @@
-<img align="left" alt="patrickverol" height="260" style="border-radius:50px;" src="https://github.com/patrickverol/patrickverol/blob/main/natsu.png">
+<img align="left" alt="patrickverol" height="300" style="border-radius:50px;" src="https://github.com/patrickverol/patrickverol/blob/main/natsu.png">
 <div>
   <p align="left">
     <a href = "https://medium.com/@patrickverol"><img src="https://img.shields.io/badge/-Blog-%23EA4335?style=for-the-badge&logo=ghost&logoColor=white" target="_blank"></a>
