@@ -20,6 +20,9 @@ Just for curiosity, I also love coffe and beer. Cheers!!! ☕🍻
   <a href="https://github.com/patrickverol">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=patrickverol&theme=dark&show_icons=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickverol&layout=compact&langs_count=16&theme=dark"/>
+    
+  ![Snake animation](https://github.com/patrickverol/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 
 
