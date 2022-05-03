@@ -9,7 +9,7 @@
 
 ### Hello, world! 😁🌎
 
-I'm Patrick Verol. I have a degree in eng. civil, but currently I study Data Science and Machine Learning at DNC Group.
+I'm Patrick Verol. I have a degree in civil engineering, but currently I study Data Science and Machine Learning at DNC Group.
 
 I am passionate about technology, personal development and financial issues as well. Thus, I am always looking for new ways of improvement, through books, media and others. I'd like to write about things I'm studying, as a way to have a better comprehension of the subejcts, and share some knowledge that may be usefull.
 
