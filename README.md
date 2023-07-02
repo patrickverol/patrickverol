@@ -7,13 +7,17 @@
     <a href="https://discord.com/channels/PatrickVerol#5649" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-### Hello, world! 😁🌎
+### -- Hello world!😁🌎 
 
-I'm Patrick Verol. I have a degree in civil engineering, but currently I study Data Science and Machine Learning at DNC Group.
+I have a degree in engineering, and I'm currently pursuing a postgraduate degree in Data Science. 
 
-I am passionate about technology, personal development and financial issues as well. Thus, I am always looking for new ways of improvement, through books, media and others. I'd like to write about things I'm studying, as a way to have a better comprehension of the subejcts, and share some knowledge that may be usefull.
+I believe in generating value for the business through data. I have experience with data manipulation using the languages ​​R, Python and its various auxiliary libraries (Pandas, Numpy, etc.). With the creation of dashboards through visualization tools such as Power BI, Tableau, Streamlit. And also, with the generation of predictive analyzes using Machine Learning models. 
 
-Just for curiosity, I also love coffe and beer. Cheers!!! ☕🍻
+I also have knowledge about the data engineering process, to follow the data pipeline that goes from its extraction to the delivery of the final product and value creation. With the use of tools such as Spark, Hadoop and Databricks.
+
+I love studying and learning more and more. I'm currently getting better at Cloud and AI. 
+
+Just out of curiosity, I'm also passionate about coffee and wine. Cheers!!! ☕🍷
 
 ### My Github stats... 👇
 <div>
