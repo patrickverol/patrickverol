@@ -9,15 +9,15 @@
 
 ### -- Hello world!😁🌎 
 
-I have a degree in engineering, and I'm currently pursuing a postgraduate degree in Data Science. 
+Professional with more than 5 years of experience with data analysis, cost management and planning.
 
-I believe in generating value for the business through data. I have experience with data manipulation using the languages ​​R, Python and its various auxiliary libraries (Pandas, Numpy, etc.). With the creation of dashboards through visualization tools such as Power BI, Tableau, Streamlit. And also, with the generation of predictive analyzes using Machine Learning models. 
+Experience with data manipulation in Python and its various auxiliary libraries (Pandas, Numpy, etc.). 
+Creation of dashboards using visualization tools such as Power BI, Tableau, Streamlit. 
+Generation of predictive analyzes using Machine Learning models.
 
-I also have knowledge about the data engineering process, to follow the data pipeline that goes from its extraction to the delivery of the final product and value creation. With the use of tools such as Spark, Hadoop and Databricks.
+Knowledge of the data engineering process, to monitor the data pipeline that goes from its extraction to the delivery of the final product and generation of value. Using tools such as Airbyte, DBT and Airflow.
 
-I love studying and learning more and more. I'm currently getting better at Cloud and AI. 
-
-Just out of curiosity, I'm also passionate about coffee and wine. Cheers!!! ☕🍷
+He also gained knowledge in Docker and Cloud for infrastructure deployment and automation with Terraform.
 
 ### My Github stats... 👇
 <div>
