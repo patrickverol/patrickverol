@@ -7,8 +7,7 @@
     <a href="https://discord.com/channels/PatrickVerol#5649" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-### -- Hello world!😁🌎 
-
+### 
 Professional with more than 5 years of experience with data analysis, cost management and planning.
 
 Experience with data manipulation in Python and its various auxiliary libraries (Pandas, Numpy, etc.). 
