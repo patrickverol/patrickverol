@@ -8,15 +8,11 @@
 </div>
 
 ### 
-Professional with more than 5 years of experience with data analysis, cost management and planning.
+Professional with more than 5 years of experience in data analysis, with expertise in the data structuring process for creating dashboards in Power BI, Tableau and Streamlit, data quality control through Python scripts, process automation and data manipulation data, development and creation of complete data pipeline, collection and removal of data using SQL. 
 
-Experience with data manipulation in Python and its various auxiliary libraries (Pandas, Numpy, etc.). 
-Creation of dashboards using visualization tools such as Power BI, Tableau, Streamlit. 
-Generation of predictive analyzes using Machine Learning models.
+I worked on several projects where I developed automation for ETL with Python, generating reports and automatically sending emails. Development of dashboards in Power BI with SAP integration. 
 
-Knowledge of the data engineering process, to monitor the data pipeline that goes from its extraction to the delivery of the final product and generation of value. Using tools such as Airbyte, DBT and Airflow.
-
-He also gained knowledge in Docker and Cloud for infrastructure deployment and automation with Terraform.
+Developed projects with Databricks to create a Data Warehouse. Using the architectural medallion, data was ingested from different sources and several layers were created for processing and measuring data quality. In this way, creating a complete data pipeline where, in the end, clean and reliable data was made available to the business areas.
 
 ### My Github stats... 👇
 <div>
