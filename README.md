@@ -8,11 +8,11 @@
 </div>
 
 ### 
-Professional with more than 5 years of experience in data analysis, with expertise in the data structuring process for creating dashboards in Power BI, Tableau and Streamlit, data quality control through Python scripts, process automation and data manipulation data, development and creation of complete data pipeline, collection and removal of data using SQL. 
+Data Engineering professional with over 6 years of experience specializing in building robust data pipelines, implementing modern data architectures, and developing advanced analytics solutions. Expert in data engineering technologies including Apache Spark, Kafka, Delta Lake, and cloud platforms (AWS, Azure, Databricks, Snowflake). Strong background in ETL processes, data quality control, and data warehouse implementation, with a focus on creating efficient, scalable, and cost-effective data solutions. Proficient in Infrastructure as Code using Terraform and orchestrating complex data workflows with Apache Airflow.
 
-I worked on several projects where I developed automation for ETL with Python, generating reports and automatically sending emails. Development of dashboards in Power BI with SAP integration. 
+Experienced in developing end-to-end data pipelines and implementing data quality frameworks using Great Expectations, while ensuring comprehensive documentation through Data Lineage. Proficient in building real-time analytics solutions using Kafka and Spark Streaming, and implementing modern data architectures with Data Lakehouse patterns. Skilled in creating automated reporting systems, developing Power BI dashboards, and optimizing data processing workflows to reduce costs and improve performance.
 
-Developed projects with Databricks to create a Data Warehouse. Using the architectural medallion, data was ingested from different sources and several layers were created for processing and measuring data quality. In this way, creating a complete data pipeline where, in the end, clean and reliable data was made available to the business areas.
+Demonstrated expertise in implementing Retrieval-Augmented Generation (RAG) systems, combining vector databases with large language models to create intelligent search and question-answering applications. Successfully delivered projects involving real-time financial data analytics, climate data processing, and machine learning application deployment, showcasing a comprehensive understanding of both traditional and modern data engineering practices.
 
 ### My Github stats... 👇
 <div>
